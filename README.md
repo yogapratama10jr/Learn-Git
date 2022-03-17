@@ -1,4 +1,5 @@
- Panduan Penggunaan Git
+Panduan Penggunaan Git
+Git Usage Guide 
 
 
 ## Create a new repository on the command line
