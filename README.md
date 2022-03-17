@@ -6,7 +6,7 @@ Testing Modify
 Testing Permission
 Testing Commit by Github
 
-# Distibuted 
+# Distibuted Work Flow
 Try Distributed WorkFlow
 Merge Master
 Commit master By Github 
