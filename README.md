@@ -8,7 +8,7 @@ Testing Commit by Github
 
 # Distibuted Work Flow
 Try Distributed WorkFlow
-Merge Master
+Merge master
 Commit master By Github 
 Testing Merge
 
