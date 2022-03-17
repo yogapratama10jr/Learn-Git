@@ -10,7 +10,7 @@ Testing Commit by Github
 Try Distributed WorkFlow
 Merge master
 Commit master By Github 
-Testing Merge
+Testing Merge master
 
 ## Create a new repository on the command line
 
