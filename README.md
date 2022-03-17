@@ -9,6 +9,7 @@ Testing Commit by Github
 # Distibuted 
 Try Distributed WorkFlow
 Merge Master
+Commit master By Github
 
 ## Create a new repository on the command line
 
