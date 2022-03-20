@@ -6,15 +6,10 @@ Testing Modify
 Testing Permission
 Testing Commit by Github
 
-<<<<<<< Updated upstream
 # Develop Branch
+
 # Distributed Work Flow
-=======
-# DMaster Branch
 
-# Develop Work Flow
-
->>>>>>> Stashed changes
 Try Distributed WorkFlow
 Merge master
 Commit master By Github
