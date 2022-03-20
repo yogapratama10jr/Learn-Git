@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Branch Master
+=======
+# Branch Develop
+>>>>>>> develop
 Panduan Penggunaan Git
 Git Usage Guide 
 Testing Modify
