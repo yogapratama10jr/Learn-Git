@@ -6,9 +6,9 @@ Testing Modify
 Testing Permission
 Testing Commit by Github
 
-# Dummy Branch
+# Master Branch
 
-# Dummy Work Flow
+# Master Work Flow
 
 Try Distributed WorkFlow
 Merge master
