@@ -1,16 +1,23 @@
-
 # Branch Develop
+
 Panduan Penggunaan Git
-Git Usage Guide 
+Git Usage Guide
 Testing Modify
 Testing Permission
 Testing Commit by Github
 
+<<<<<<< Updated upstream
 # Develop Branch
 # Distributed Work Flow
+=======
+# DMaster Branch
+
+# Develop Work Flow
+
+>>>>>>> Stashed changes
 Try Distributed WorkFlow
 Merge master
-Commit master By Github 
+Commit master By Github
 Testing Merge master
 
 ## Create a new repository on the command line
