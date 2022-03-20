@@ -1,20 +1,18 @@
-
-<<<<<<< HEAD
 # Branch Master
-=======
-# Branch Develop
->>>>>>> develop
+
 Panduan Penggunaan Git
-Git Usage Guide 
+Git Usage Guide
 Testing Modify
 Testing Permission
 Testing Commit by Github
 
-# DMaster Branch
-# Distributed Work Flow
+# Dummy Branch
+
+# Dummy Work Flow
+
 Try Distributed WorkFlow
 Merge master
-Commit master By Github 
+Commit master By Github
 Testing Merge master
 
 ## Create a new repository on the command line
