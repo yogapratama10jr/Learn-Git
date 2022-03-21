@@ -8,11 +8,7 @@ Testing Commit by Github
 
 # Develop Branch
 
-<<<<<<< Updated upstream
 # Develop Work Flow Remote Github
-=======
-# Develop Work Flow Testing
->>>>>>> Stashed changes
 
 Try Distributed WorkFlow
 Merge master
